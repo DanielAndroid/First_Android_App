@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">First Android App</string>
-    <string name="hello">hello</string>
-    <string name="view_binding">This is View Binding</string>
-    <string name="button_has_been_clicked">Button has been clicked</string>
+    <string name="hello">Hello, World</string>
     <string name="show_text">Show Text</string>
+    <string name="open_activity">Open Activity</string>
+    <string name="welcome">Welcome</string>
+
+
 </resources>
